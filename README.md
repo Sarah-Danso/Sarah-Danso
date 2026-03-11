@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Streak Stats](https://streak-stats.demolab.com/?user=Sarah-Danso)
 <!--
 **Sarah-Danso/Sarah-Danso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
